@@ -35,6 +35,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Add bootstrap
 gem 'bootstrap-sass', '~> 3.3'
 gem 'font-awesome-rails', '~> 4.2'
+gem 'simple_form', '3.1.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
